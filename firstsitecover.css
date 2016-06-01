@@ -32,7 +32,7 @@ html,
 body {
   height: 100%;
   background-color: #333;
-  background-image:url(images/soccertest2.jpg); 
+  background-image:url(/images/soccertest2.jpg); 
   background-repeat: no-repeat;
   background-size: cover;
 }
