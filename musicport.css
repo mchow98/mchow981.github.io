@@ -145,5 +145,6 @@ video {
 
 .mastfoot {
   clear: all;
-  position: fixed;
+  position: relative;
+  margin-top: 300px;
 }
